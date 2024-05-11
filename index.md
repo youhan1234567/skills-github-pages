@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog. What a great day to start your learning journey!
 ---
 
